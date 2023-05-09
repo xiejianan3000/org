@@ -1,0 +1,11 @@
+
+* STARTED [#A] 毕业论文初稿
+DEADLINE: <2023-05-12 Fri>
+:LOGBOOK:
+CLOCK: [2023-05-09 Tue 19:32]--[2023-05-09 Tue 19:53] =>  0:21
+:END:
+
+要快点了.
+
+* TODO [#A] 公选课
+DEADLINE: <2023-05-14 Sun 23:00>
